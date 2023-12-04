@@ -1,0 +1,10 @@
+{
+	"name": "FRUits",
+	"short_name": "FRUits",
+	"description": "Full - HD",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}
